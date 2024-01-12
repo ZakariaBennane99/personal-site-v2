@@ -2,12 +2,12 @@
 layout: inner
 position: left
 title: 'Weathercast'
-date: 2016-02-20 15:56:00
+date: 2024-01-10 15:56:00
 categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
+tags: NodeJS ExpressJS ReactJS NextJS APIs CSS
+featured_image: '/img/posts/sumbroo.png'
+project_link: 'https://github.com/ZakariaBennane99/SumBroo'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'SumBroo is an idea I had in the summer of 2023. The concept? Applying the idea of blog posting to social media, but on a larger scale. I couldn't move forward with this project as I cold-emailed hundreds of social media (mainly Pinteresters) and most of couldn't see the value of the platform, so I had to shut it down.'
 ---
