@@ -53,6 +53,7 @@ p {
 }
 
 a {
+  cursor: pointer;
   @include transition(color .2s ease-in-out);
   &:hover {
     color: #FF5B33;
@@ -142,9 +143,14 @@ button.btn, input.btn {
   }
   .hero-buttons {
     margin: 0 auto;
-    display: table;
+    display: flex;
+    justify-content: center;
     i {
       padding-right: 0.5em;
+    }
+    @media (max-width: 995px) {
+      flex-direction: column;
+      align-items: center;
     }
   }
 }
