@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Rescue Themes'
-date: 2016-02-20 15:56:00
+title: 'Weather App'
+date: 2024-01-12 15:56:00
 categories: development design
-tags: WordPress PHP Sass
-featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
-project_link: 'https://rescuethemes.com'
-button_text: 'Visit Rescue Themes'
-button_icon: 'wordpress'
-lead_text: 'Designed and developed all WordPress themes'
+tags: HTML CSS JS WebPack
+featured_image: '/img/posts/weatherapp.png'
+project_link: 'https://github.com/ZakariaBennane99/Weather-App'
+button_text: 'Visit Project'
+button_icon: 'github'
+lead_text: "Weather data for any city in the world. This was the first time I integrate an API into my project via the OpenWeatherMap."
 ---
