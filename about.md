@@ -24,6 +24,6 @@ Here's what keeps me inspired:
     - [Oliver Knill](https://www.youtube.com/@OliverKnill)
     - [Garry Tan](https://www.youtube.com/@GarryTan)
 
-And for me, **The Great Gatsby** movie really shows what ambition and dreams are all about.
+**The Great Gatsby** movie really shows what ambition and dreams are all about.
 
-That's a bit about me. I'm always up for making new connections, so feel free to contact me on Twitter or LinkedIn.
+I'm always up for making new connections, so feel free to contact me on Twitter or LinkedIn.
